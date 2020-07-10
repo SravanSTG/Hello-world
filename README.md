@@ -2,5 +2,5 @@
 My first repository
 
 Hi,
-   I am Sravan and this is my first repository. 
+   I am Sravan and this is my first repository in GitHub. 
    Welcome!
